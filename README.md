@@ -10,6 +10,6 @@
 
 - 🌱 I’m currently writing some **Rust**
 
-- 📫 You can reach me **on linkedin :)**
+- 📫 Say hi on **[LinkedIn](https://www.linkedin.com/in/theo-fourniez/) :)**
 
 - ⚡ I love reading about **low level programming, reverse engineering, game development and hacking, cybersecurity**
