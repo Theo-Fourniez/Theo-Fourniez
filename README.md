@@ -1,16 +1,13 @@
-### Hi there 👋
+- 🔭 In September 2024 : **I will finish my 5 years Computer Engineering degree at [IMT Nord Europe](https://imt-nord-europe.fr/en/)**
 
-<!--
-**Theo-Fourniez/Theo-Fourniez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 My best projects are :
+   - [Portal 2 made in Unity](https://www.youtube.com/watch?v=AnaACWZnJ4g)
+   - [Whatsapp web clone](https://github.com/Theo-Fourniez/websocket-chat-app-frontend)
+   - [JM file opener](https://www.youtube.com/watch?v=Cut9Yoxsb8Y)
+   - And a secret project coming soon 🤫
 
-Here are some ideas to get you started:
+- 🌱 I’m currently writing some **Rust**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 You can reach me **on linkedin :)**
+
+- ⚡ I love reading about **low level programming, reverse engineering, game development and hacking, cybersecurity**
