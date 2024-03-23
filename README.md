@@ -1,3 +1,5 @@
+<h1 align="center">Hello 👋</h1>
+
 - 🔭 In September 2024 : **I will finish my 5 years Computer Engineering degree at [IMT Nord Europe](https://imt-nord-europe.fr/en/)**
 
 - 👨‍💻 My best projects are :
