@@ -8,9 +8,9 @@
    - [Huskey, a password manager written in Rust](https://github.com/Theo-Fourniez/huskey/)
    - [Portal 2 made in Unity](https://www.youtube.com/watch?v=AnaACWZnJ4g)
    - [Whatsapp web clone](https://github.com/Theo-Fourniez/websocket-chat-app-frontend)
-   - [JM file opener](https://www.youtube.com/watch?v=Cut9Yoxsb8Y)
+   - [JM file opener, a python Blender addon](https://www.youtube.com/watch?v=Cut9Yoxsb8Y)
    
-- 🌱 I’m currently writing some **Rust**
+- 🌱 I’m currently writing some **Rust** and **C**
 
 - 💻 My open source contributions :
    - https://github.com/cyon/vue-translation-manager/pull/39
