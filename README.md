@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋</h1>
 
-- 👨‍💻 I am challenge driven, self motivated and love to dive deep into technical subjects. I'm looking for a place to continue growing as an Engineer with 3 years of working experience.
+- 👨‍💻 I am challenge driven, self motivated and love to dive deep into technical subjects. I'm looking for places to continue growing as an Engineer.
 
 - 👨‍💻 My best personnal projects are :
    - [Huskey, a password manager written in Rust](https://github.com/Theo-Fourniez/huskey/)
