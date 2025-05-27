@@ -2,7 +2,7 @@
 
 - 👨‍💻 I am challenge driven, self motivated and love to dive deep into technical subjects. I'm looking for places to continue growing as an Engineer.
 
-- 👨‍💻 My best personnal projects are :
+- 👨‍💻 My best personal projects are :
    - [Huskey, a password manager written in Rust](https://github.com/Theo-Fourniez/huskey/)
    - [Portal 2 made in Unity](https://www.youtube.com/watch?v=AnaACWZnJ4g)
    - [Whatsapp web clone](https://github.com/Theo-Fourniez/websocket-chat-app-frontend)
