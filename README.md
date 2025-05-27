@@ -9,6 +9,7 @@
    - [JM file opener, a python Blender addon to open .jm files](https://www.youtube.com/watch?v=Cut9Yoxsb8Y)
    
 - 💻 My open source contributions :
+   - https://github.com/cksac/fake-rs/pull/242 
    - https://github.com/cyon/vue-translation-manager/pull/39
    - https://github.com/AlexeyPerov/Unity-Dependencies-Hunter/pull/21
    - there will be more :) 
